@@ -1,0 +1,14 @@
+Aby wybrac karte, kliknij lewym przyciskiem myszy.
+Aby zwolnic karte, kliknij prawym przyciskiem myszy.
+Aby przelozyc kupke kart, kliknij prawy przycisk myszy na pustej kupce.
+Przekladanie kart na kupce oraz cofanie ruchow mozliwe tylko wtedy, gdy zadna karta nie jest wybrana.
+Ruchy mozna cofac odpowiadajacym za to przyciskiem.
+Stosy zbierajace sa przypisane do konkretnych symboli kart, kolejno: trefl, karo, kier i pik.
+Uzytkownik nie moze zdobyc mniej punktow niz 0.
+
+Uwaga! Ze wzgledu na pseudolosowosc kazdego rozdania i brak poziomow trudnosci talia moze byc nierozwiazywalna.
+
+Punktacja:
+-odkrycie nowej karty | 5pkt
+-ulozenie karty na stosie zbierajacym | 10pkt
+-kazde kolejne przelozenie kupki kart | -25pkt

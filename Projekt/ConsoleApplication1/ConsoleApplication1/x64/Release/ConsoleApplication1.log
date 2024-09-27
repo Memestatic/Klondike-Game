@@ -1,0 +1,124 @@
+﻿  Klondike.cpp
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(37,25): warning C4101: 'error': unreferenced local variable
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,67): warning C4244: 'argument': conversion from '_Ty2' to 'unsigned int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,67): warning C4244:         with
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,67): warning C4244:         [
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,67): warning C4244:             _Ty2=float
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,67): warning C4244:         ]
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,49): warning C4244: 'argument': conversion from '_Ty1' to 'unsigned int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,49): warning C4244:         with
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,49): warning C4244:         [
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,49): warning C4244:             _Ty1=float
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(154,49): warning C4244:         ]
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(232,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(248,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(276,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(343,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(406,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(557,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(558,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(602,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(603,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(704,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(769,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(788,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(818,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(819,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(820,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(821,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(822,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(823,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39): warning C4244: '=': conversion from '_Ty' to '_Ty1', possible loss of data
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39): warning C4244:         with
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39): warning C4244:         [
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39): warning C4244:             _Ty=int
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39): warning C4244:         ]
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39): warning C4244:         and
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39): warning C4244:         [
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39): warning C4244:             _Ty1=float
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39): warning C4244:         ]
+  (compiling source file 'Klondike.cpp')
+      D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(398,39):
+      the template instantiation context (the oldest one first) is
+          D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(28,13):
+          see reference to function template instantiation 'std::pair<float,float> &std::pair<float,float>::operator =<int,int,0>(std::pair<int,int> &&) noexcept' being compiled
+              D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Klondike.cpp(28,13):
+              see the first reference to 'std::pair<float,float>::operator =' in 'Klondike::Menu'
+  
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244: '=': conversion from '_Ty' to '_Ty2', possible loss of data
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244:         with
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244:         [
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244:             _Ty=int
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244:         ]
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244:         and
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244:         [
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244:             _Ty2=float
+D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244:         ]
+  (compiling source file 'Klondike.cpp')
+  
+  Stack.cpp
+  main.cpp
+  myEvent.cpp
+  Generating Code...
+D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Stack.cpp(65,1): warning C4715: 'Stack::returnCardInStackIndex': not all control paths return a value
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+Card.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Transformable.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(VertexArray.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Shape.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Shape.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RectangleShape.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RectangleShape.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderTarget.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Color.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Color.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Image.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Image.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Font.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Font.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderWindow.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Sprite.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Sprite.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Text.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Text.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderStates.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Texture.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Texture.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Transform.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Transform.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Vertex.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Vertex.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(View.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(View.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(BlendMode.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(BlendMode.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Shader.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Shader.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexBuffer.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(VertexBuffer.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(GLExtensions.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(GLCheck.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(GLLoader.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(GLLoader.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(ImageLoader.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(TextureSaver.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(TextureSaver.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Glsl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTextureImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderTextureImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Mouse.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Mouse.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(VideoMode.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(VideoMode.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Window.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Window.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Context.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Context.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(GlResource.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(GlResource.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(InputImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(InputImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(VideoModeImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Cursor.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Cursor.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(GlContext.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(GlContext.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WindowImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(CursorImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WglContext.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WglContext.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(JoystickManager.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(SensorManager.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(SensorManager.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WindowImplWin32.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WglExtensions.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Joystick.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Joystick.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(JoystickImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(SensorImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(SensorImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Time.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Time.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Clock.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Clock.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(String.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(String.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Mutex.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Mutex.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Lock.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Lock.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Err.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Err.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Sleep.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Sleep.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocal.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(ThreadLocal.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ClockImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(ClockImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(MutexImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(MutexImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(SleepImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(SleepImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocalImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(ThreadLocalImpl.cpp.obj)' or at ''; linking object as if no debug info
+  ConsoleApplication1.vcxproj -> D:\Github repos\Klondike\Projekt\ConsoleApplication1\x64\Release\ConsoleApplication1.exe

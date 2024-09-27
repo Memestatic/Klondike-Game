@@ -1,2 +1,1 @@
-# Klondike
-Klondike game
+All details in report.pdf file.

@@ -56,11 +56,6 @@ D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39
 D:\Microsoft Visual Studio\2022\VC\Tools\MSVC\14.41.34120\include\utility(399,39): warning C4244:         ]
   (compiling source file 'Klondike.cpp')
   
-  Stack.cpp
-  main.cpp
-  myEvent.cpp
-  Generating Code...
-D:\Github repos\Klondike\Projekt\ConsoleApplication1\ConsoleApplication1\Stack.cpp(65,1): warning C4715: 'Stack::returnCardInStackIndex': not all control paths return a value
 LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
 Card.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
 sfml-graphics-s-d.lib(Transformable.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Transformable.cpp.obj)' or at ''; linking object as if no debug info
